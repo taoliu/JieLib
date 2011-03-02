@@ -1,4 +1,4 @@
-for j in /home/wangj2/scratch/bw_from_Anshul/*.bw
+for j in *.bw
 do
 
 i=$(basename $j .bw)
